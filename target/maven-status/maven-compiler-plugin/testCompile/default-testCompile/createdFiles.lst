@@ -1,0 +1,8 @@
+utilities/PageActions.class
+utilities/ReadPropertiesFile.class
+test_runner/Runner.class
+utilities/Hooks.class
+utilities/CustomAssert.class
+step_definitions/PlayTech_LegalAge.class
+step_definitions/PlayTech_AboutUs.class
+utilities/DriverInstance.class
